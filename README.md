@@ -12,22 +12,39 @@ Save files will not be compatible across all versions of Rainwash. In version x.
 Good luck.
 
 ---HELP---
+
 If you're stuck, try the following commands:
+
 -Go/walk/move/travel N/S/E/W/Forwards/Left/Right/etc.
+
 -Attack/fight/kill "monster".
+
 -Drop "item".
+
 -Hold/wear/equip "item".
+
 -Search/open/investigate "container".
+
 -Explore.
+
 -Use "item".
+
 -Cook "item".
+
 Please note that all commands require a period at the end EXCEPT prompted commands (i.e., responding directly to an option/question). Prompted commands will not accept periods.
 
 ---CHANGELOG---
+
 v1.0: The first distribution of Rainwash marks about 1.5 years of on-and-off work. It features:
+
 -Procedurally generated locations with biomes, containers (barrels, crates, etc.), monsters, and a few other variants.
+
 -A brutal turn-based attack system designed to put risk into battles.
+
 -Items, including potions, scrolls, weapons, armor, etc.
+
 -Story-like environmental interactions and combat, keeping the "numbers" behind the scenes.
+
 -Character needs, like food and rest.
+
 -And much more!
