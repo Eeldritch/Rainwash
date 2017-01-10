@@ -33,7 +33,7 @@ If you're stuck, try the following commands:
 
 -Cook "item".
 
-Please note that all commands require a period at the end EXCEPT prompted commands (i.e., responding directly to an option/question). Prompted commands will not accept periods.
+**Please note that all commands require a period at the end EXCEPT prompted commands (i.e., responding directly to an option/question). Prompted commands will not accept periods.**
 
 ---CHANGELOG---
 
