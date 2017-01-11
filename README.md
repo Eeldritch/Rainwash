@@ -9,7 +9,7 @@ Before running Rainwash, you MUST run RWSetup. This creates all the required fil
 
 Save files will not be compatible across all versions of Rainwash. In version x.y, save files will maintain structure across all values of y, but save files from different values of x will not be compatible unless otherwise noted. 
 
-***Downloads are availabe under releases.
+***Downloads are availabe under releases. Versioning is not semantic.
 
 Good luck.
 
@@ -36,6 +36,11 @@ If you're stuck, try the following commands:
 **Please note that all commands require a period at the end EXCEPT prompted commands (i.e., responding directly to an option/question). Prompted commands will not accept periods.**
 
 ---CHANGELOG---
+v1.01: 1-10-17: Released the same day as v1.0, this patch fixes some game-breaking bugs, and adds two small features.
+-Fixed "Cut of Raw Venison" Typo.
+-Fixed Armor Bonus Not Applied bug.
+-Made a slight addition in health monitoring text.
+-Added a five-second delay before exit upon death.
 
 v1.0: 1-10-17: The first distribution of Rainwash marks about 1.5 years of on-and-off work. It features:
 
