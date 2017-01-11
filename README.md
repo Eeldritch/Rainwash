@@ -37,10 +37,15 @@ If you're stuck, try the following commands:
 
 ---CHANGELOG---
 v1.01: 1-10-17: Released the same day as v1.0, this patch fixes some game-breaking bugs, and adds two small features.
+
 -Fixed "Cut of Raw Venison" Typo.
+
 -Fixed Armor Bonus Not Applied bug.
+
 -Made a slight addition in health monitoring text.
+
 -Added a five-second delay before exit upon death.
+
 
 v1.0: 1-10-17: The first distribution of Rainwash marks about 1.5 years of on-and-off work. It features:
 
