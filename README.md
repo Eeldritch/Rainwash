@@ -37,7 +37,7 @@ If you're stuck, try the following commands:
 
 ---CHANGELOG---
 
-v1.0: The first distribution of Rainwash marks about 1.5 years of on-and-off work. It features:
+v1.0: 1-10-17: The first distribution of Rainwash marks about 1.5 years of on-and-off work. It features:
 
 -Procedurally generated locations with biomes, containers (barrels, crates, etc.), monsters, and a few other variants.
 
