@@ -15,27 +15,23 @@ Good luck.
 
 ---HELP---
 
-If you're stuck, try the following commands:
-
--Go/walk/move/travel N/S/E/W/Forwards/Left/Right/etc.
-
--Attack/fight/kill "monster".
-
--Drop "item".
-
--Hold/wear/equip "item".
-
--Search/open/investigate "container".
-
--Explore.
-
--Use "item".
-
--Cook "item".
+If you're stuck, type "Help." (without quotes) for a full command list.
 
 **Please note that all commands require a period at the end EXCEPT prompted commands (i.e., responding directly to an option/question). Prompted commands will not accept periods.**
 
 ---CHANGELOG---
+
+v1.1: 1-14-17: v1.1 is the first officially licensed version of Rainwash! It features:
+
+-The "Help." command.
+
+-Greatly increased vocabulary for both commands as well as monsters and containers.
+
+-Handling for fatal errors (user intervention required).
+
+-Clarification for multiple commands that would display nothing after improper input (such as invalid spellings of items).
+
+-Some small tweaks for bug fixes and improved playability.
 
 v1.01: 1-10-17: Released the same day as v1.0, this patch fixes some game-breaking bugs, and adds two small features.
 
