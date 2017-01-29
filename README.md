@@ -21,6 +21,17 @@ If you're stuck, type "Help." (without quotes) for a full command list.
 
 ---CHANGELOG---
 
+v1.2: 1-29-17: v1.2 marks Rainwash's 3000-lines-of-code milestone! Per user requests, input has been made significantly more flexible. New in v1.2:
+
+-Shorteners for Container and Monster inputs. Instead of "giant wolf spider", one can now simply type "spider".
+
+-Object persistance. When your inventory is full and you discover an item, you no longer lose an item from you inventory, instead, you place the new item on the ground. Items on the ground can be picked up with the "take" command. Additionally, dropped items are placed on the ground instead of being "washed away".
+
+-Tweaks in the hunger mechanic, so that one does not instantly become hungry when fleeing.
+
+-The dreaded "raw venison" bug has, once again, been fixed.
+
+
 v1.1: 1-14-17: v1.1 is the first officially licensed version of Rainwash! It features:
 
 -The "Help." command.
@@ -32,6 +43,7 @@ v1.1: 1-14-17: v1.1 is the first officially licensed version of Rainwash! It fea
 -Clarification for multiple commands that would display nothing after improper input (such as invalid spellings of items).
 
 -Some small tweaks for bug fixes and improved playability.
+
 
 v1.01: 1-10-17: Released the same day as v1.0, this patch fixes some game-breaking bugs, and adds two small features.
 
